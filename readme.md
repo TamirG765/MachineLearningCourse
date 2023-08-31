@@ -1,4 +1,4 @@
-# Machine Learning Journey: From Zero to Mastery
+# Machine Learning Journey: From Zero to Mastery 🦾
 
 Welcome to my repository where I document my learning journey through the "From Zero to Mastery: Machine Learning" course. Here, you will find notes, assignments, projects, and insights I've gleaned from the course modules, giving a holistic view of my exploration into the world of machine learning.
 
