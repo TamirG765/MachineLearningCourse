@@ -10,13 +10,7 @@ Welcome to my repository where I document my learning journey through the Machin
 4. [Tools & Resources Used](#tools--resources-used)
 5. [Contact & Feedback](#contact--feedback)
 
-## About the Course
-
-"From Zero to Mastery: Machine Learning" is a comprehensive course designed to provide learners with a foundational understanding of machine learning, its applications, and the tools necessary for data analysis and model creation.
-
-## My Objectives
-
-While progressing through this course, I aim to:
+### While progressing through this course, I aim to:
 
 - Grasp the core concepts of machine learning.
 - Apply my learnings to real-world machine learning projects.
